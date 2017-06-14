@@ -1,4 +1,4 @@
-•	Implemented RESTful Web Services (GET, PUT, POST, DELETE, HEAD) using C# language in .NET framework, for querying automobiles database.
+•	Implemented RESTful Web Services (using HTTP methods GET, PUT, POST, DELETE, HEAD) using C# language in .NET framework, for querying automobiles database.
 
 •	Designed and developed unit test cases for the controller layer of the application.
 
